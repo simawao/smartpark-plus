@@ -132,73 +132,51 @@ Sistem sayesinde;
 
 ## Ana Sayfa
 
-<p align="center">
-<img src="images/anasayfa.png" width="900">
-</p>
+<img width="1440" height="900" alt="anasayfa " src="https://github.com/user-attachments/assets/fc96df03-b5d1-4ed0-b6a5-883f55b2af3e" />
 
 ---
 
 ## Yönetici Girişi
 
-<p align="center">
-<img src="images/yonetici-giris.png" width="900">
-</p>
+<img width="1440" height="900" alt="yönetici gitiş" src="https://github.com/user-attachments/assets/704e6f9a-9c17-45f1-bab2-c9c595a1d6f4" />
 
 ---
 
 ## Genel Bakış
 
-<p align="center">
-<img src="images/genel-bakis.png" width="900">
-</p>
+<img width="1440" height="900" alt="genel bakıs" src="https://github.com/user-attachments/assets/686d0596-acb2-41eb-a425-302483c92919" />
 
 ---
 
 ## Park Yönetimi
 
-<p align="center">
-<img src="images/parklar.png" width="900">
-</p>
+<img width="1440" height="900" alt="parklae" src="https://github.com/user-attachments/assets/49b87392-527b-4f19-88c1-c9d23a80b310" />
 
 ---
 
 ## Harita
 
-<p align="center">
-<img src="images/harita.png" width="900">
-</p>
+<img width="1440" height="900" alt="harita" src="https://github.com/user-attachments/assets/258bd989-837e-452a-a113-d42411bf3cfc" />
 
 ---
 
 ## Bakım Yönetimi
 
-<p align="center">
-<img src="images/bakim-yonetimi.png" width="900">
-</p>
+<img width="1440" height="900" alt="bakım yönetimi" src="https://github.com/user-attachments/assets/cac1eb93-9b9a-411e-8aa7-4fec42c9673e" />
+
 
 ---
 
 ## Görev Yönetimi
 
-<p align="center">
-<img src="images/gorevler.png" width="900">
-</p>
+<img width="1440" height="900" alt="görevler" src="https://github.com/user-attachments/assets/350dcacf-2115-45d6-b281-0330d6240936" />
 
 ---
 
-## Personel Yönetimi
-
-<p align="center">
-<img src="images/personel.png" width="900">
-</p>
-
----
 
 ## Raporlama
 
-<p align="center">
-<img src="images/raporlar.png" width="900">
-</p>
+<img width="1440" height="900" alt="raporlar" src="https://github.com/user-attachments/assets/0b6d41cd-c6a2-4d70-8181-c6b109a543fa" />
 
 ---
 
